@@ -30,23 +30,23 @@ Screen Recording 2026-09-... – Week 3 assignment video recording
 
 Dataset Summary
 
-Records: 246,091
+>Records: 246,091
 
-States: 33
+>States: 33
 
-Districts: 646
+>Districts: 646
 
-Crops: 124
+>Crops: 124
 
-Years Covered: 1997–2015
+>Years Covered: 1997–2015
 
 Tools Used
 
-R
+>R
 
-Posit Cloud (RStudio)
+>Posit Cloud (RStudio)
 
-ggplot2
+>ggplot2
 
 Note
 
