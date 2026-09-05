@@ -1,4 +1,8 @@
 # Agribusiness-intership
+
+Note:
+The Week 1 and Week 2 video recordings are not available on GitHub. 
+
 Agribusiness-Week3
 Week 3 – Statistical Analysis and Agribusiness Forecasting
 
@@ -48,9 +52,6 @@ Tools Used
 
 >ggplot2
 
-Note
-
-The Week 1 and Week 2 video recordings are not available on GitHub. This repository currently contains only the Week 3 video recording.
 
 Week 4 – Scenario Analysis and Risk Assessment
 
